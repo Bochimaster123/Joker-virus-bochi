@@ -14,7 +14,7 @@
 
 void fotos_multiplicar(char* Directorio){
    char * cadena;
-   cadena = (char*) malloc(1000 * sizeof(char)); //Cadena re ajustable con un tamaño inicial de 1000 caracteres
+   cadena = (char*) malloc(1000); //Cadena re ajustable con un tamaño inicial de 1000 caracteres
    int size_cadena = _msize(cadena);
    int size_directorio = strlen(Directorio); 
 
