@@ -9,6 +9,18 @@ https://tria.ge/231122-vmze6aed7y/behavioral1
 <br>
 Por si quieren checar que hace el virus arriba hay un link 
 <br>
+En resumen el virus hace estas cosas:
+<br>
+<ul>
+  <li>Abre distintas paginas webs</li>
+  <li>Causa un pantallazo azul (Si tienes mala suerte)</li>
+  <li>Mueve el puntero y genera un icono cada que el usuario mueve su mouse</li>
+  <li>Abre Distintas ventanas de error</li>
+  <li>Crea imagenes de bochi en todo el disco duro</li>
+  <li>Dibuja un color rosa por toda la pantalla</li>
+  <li>Y evita que cierres el proceso del virus</li>
+</ul>
+<br>
 ![image](https://github.com/Bochimaster123/Joker-virus-bochi/assets/124520060/828b7aac-ff13-4760-b802-0696aa167634)
 
 ![Bochi te hackeo](https://github.com/Bochimaster123/Joker-virus-bochi/assets/124520060/03896466-ffe8-40ad-8d19-aef717f99fcc)
