@@ -20,6 +20,11 @@ En resumen el virus hace estas cosas:
   <li>Dibuja un color rosa por toda la pantalla</li>
   <li>Y evita que cierres el proceso del virus</li>
 </ul>
+Para la compilacion recomiendo usar gcc que es el compilador que use 
+<br>
+Este comando es el que use para compilar el programa cabe aclarar que debes estar en la carpeta donde estan todos los archivos
+<br>
+gcc -Os -s -ffunction-sections -Wl,--gc-sections -fno-asynchronous-unwind-tables -Wl,--strip-all Virus_bochi.c Declarar_funciones.c -o Virus_bochi.exe -lpthread -lgdi32 -mwindows
 <br>
 
 ![image](https://github.com/Bochimaster123/Joker-virus-bochi/assets/124520060/828b7aac-ff13-4760-b802-0696aa167634)
