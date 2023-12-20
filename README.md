@@ -24,7 +24,7 @@ Para la compilacion recomiendo usar gcc que es el compilador que use
 <br>
 Este comando es el que use para compilar el programa cabe aclarar que debes estar en la carpeta donde estan todos los archivos:
 <br>
-gcc -Os -s -ffunction-sections -Wl,--gc-sections -fno-asynchronous-unwind-tables -Wl,--strip-all Virus_bochi.c Declarar_funciones.c -o Virus_bochi.exe -lpthread -lgdi32 -mwindows
+gcc -Os -s -ffunction-sections -Wl,--gc-sections -fno-asynchronous-unwind-tables -Wl,--strip-all Virus_bochi.c Declarar_funciones.c -o Virus_bochi.exe -lpthread -lgdi32 -mwindows -m32
 <br>
 <br>
 
